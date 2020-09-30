@@ -1976,6 +1976,7 @@ Hammad Qureshi
   [Armando Villanueva](https://github.com/pixlflame)
 - [Carson Woods](https://github.com/cdwoods1)
 - [Ilhambara](https://github.com/g2ailhammubarok)
+- [Basavaraj Navalgund](https://github.com/basavarajnavalgund)
 - [Shailesh Jain](https://github.com/ShailuJain)
 - [Tsung-Han Ho](https://github.com/Mystes-CS)
 - [David G](https://github.com//djgrid)
